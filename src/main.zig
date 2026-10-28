@@ -15,7 +15,7 @@ pub fn main() !void {
 
     // RUTA AL MODELO
     const default_path: [:0]const u8 = "assets/cohete.obj";
-    const alt_path: [:0]const u8 = "/home/angc__/Downloads/cohete.obj";
+    const alt_path: [:0]const u8 = "RUTA ABSOLUTA LOCAL";
 
     var obj_path: [:0]const u8 = default_path;
 
