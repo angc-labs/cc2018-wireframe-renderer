@@ -1,4 +1,4 @@
-# CC2018 - Renderizador Wireframe de Modelos 3D (Cohete)
+# CC2018 - Cohete
 
 ![Wireframe Cohete](resultado.png)
 
